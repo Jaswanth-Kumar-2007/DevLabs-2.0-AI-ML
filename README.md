@@ -16,4 +16,4 @@ Welcome! This is where mentees submit their weekly Agentic AI tasks.
 
 | Week | Topic | Deadline |
 |------|-------|----------|
-| Week 1 | Agentic AI Basics | TBD |
+| Week 1 | AI Agent Basics | TBD |
